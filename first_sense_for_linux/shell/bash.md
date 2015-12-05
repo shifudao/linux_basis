@@ -5,6 +5,8 @@
 bash，全称为Bourne-Again Shell。它是一个为GNU项目编写的Unix shell。
 bash是绝大多数Linux发行版默认的Shell，Google的shell脚本规范甚至就指明必须使用bash。
 
+**我们后面的内容，如无特殊说明，均以``Bash``作为Shell。**
+
 ## Bash的命令提示符
 
 默认情况下，Bash的命令提示符像是这样:
