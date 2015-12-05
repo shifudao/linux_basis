@@ -25,3 +25,5 @@
 从而形成一个完整可用的“操作系统”。这个完整的操作系统称为“发行版(distrobution)”，拥有自己的版本号，
 组织或个人对发行版享有命名的权利。如常见的``Fedora``，``Debian``，``Ubuntu``，``CentOS``
 等等，都是“发行版”的名字。它们使用的内核都是``Linux``，固使用``Linux``做广义上Linux发行版的统称。
+
+![](http://futurist.se/gldt/wp-content/uploads/12.10/gldt1210.png)
