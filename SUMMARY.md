@@ -1,4 +1,4 @@
 # Summary
 
-* [初识Linux](初识Linux/README.md)
-    * [Shell](初识Linux/shell/README.md)
+* [初识Linux](first_sense_for_linux/README.md)
+    * [Shell](first_sense_for_linux/shell/README.md)
