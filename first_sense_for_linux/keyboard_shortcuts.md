@@ -30,5 +30,6 @@
 * ***`ctrl+r`: 进入历史查找命令记录， 输入关键字。 多次按返回下一个匹配项***
 * ***`ctrl+c`: 发送``Interrupt``信号，常用于取消未输入完整的命令，或中断当前正在执行的命令***
 * ***`ctrl+d`: 发送``EOF``信号，常用于登出交互式shell，或结束``STDIN``***
+* `ctrl+z`: 给当前正在运行的命令发送``SIGTSTP``，将导致被后台挂起
 
 > 全部组合键参见: http://ss64.com/bash/syntax-keyboard.html
