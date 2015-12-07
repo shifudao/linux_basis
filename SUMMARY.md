@@ -6,3 +6,4 @@
         * [bash](first_sense_for_linux/shell/bash.md)
     * [基本命令介绍](first_sense_for_linux/command_learning/README.md)
         * [通配符](first_sense_for_linux/command_learning/wildcard.md)
+        * [查看命令帮助](first_sense_for_linux/command_learning/show_help.md)
