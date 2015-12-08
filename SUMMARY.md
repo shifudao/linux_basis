@@ -11,5 +11,5 @@
     * [Bash组合键](first_sense_for_linux/keyboard_shortcuts.md)
     * [别名](first_sense_for_linux/alias.md)
     * [Bash特性——补全与展开](first_sense_for_linux/bash_features.md)
-    * [总结](files_directorys/summary.md)
+    * [总结](first_sense_for_linux/summary.md)
 * [文件和目录管理](files_directorys/README.md)
