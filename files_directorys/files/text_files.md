@@ -44,7 +44,7 @@ $ sort -u /tmp/text
 * ``uniq``: report or omit repeated lines
 
 ```
-$ sort /tmp/text | uniq
+$ sort /tmp/text | uniq       # 效果等同于sort -u
                  `-- 匿名管道，和FIFO不同。后续内容会专门讲解
 ```
 
