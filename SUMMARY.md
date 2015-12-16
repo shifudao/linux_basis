@@ -18,6 +18,7 @@
         * [目录的操作](files_directorys/files/dirs.md)
         * [文件的操作](files_directorys/files/file_management.md)
         * [文本文件的处理](files_directorys/files/text_files.md)
+        * [容量统计](files_directorys/files/du.md)
     * [文件与目录的权限](files_directorys/permissions/README.md)
         * [普通权限](files_directorys/permissions/regular_permissions.md)
         * [特殊权限](files_directorys/permissions/special_permissions.md)
