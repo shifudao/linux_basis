@@ -27,3 +27,5 @@
     * [软连接 VS 硬链接](files_directorys/soft_vs_hard_link.md)
     * [文件的搜索](files_directorys/searching.md)
     * [文件的归档](files_directorys/archiving.md)
+    * [bash的配置文件](files_directorys/bash_configure.md)
+    * [总结](files_directorys/summary.md)
