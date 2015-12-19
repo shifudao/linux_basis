@@ -29,3 +29,8 @@
     * [文件的归档](files_directorys/archiving.md)
     * [bash的配置文件](files_directorys/bash_configure.md)
     * [总结](files_directorys/summary.md)
+* [重定向与管道](redirection_and_pipe/README.md)
+    * [重定向](redirection_and_pipe/redirections/README.md)
+        * [输入重定向](redirection_and_pipe/redirections/input.md)
+        * [输出重定向](redirection_and_pipe/redirections/output.md)
+        * [结合使用](redirection_and_pipe/redirections/combine.md)
