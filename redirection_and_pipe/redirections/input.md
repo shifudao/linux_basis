@@ -31,3 +31,5 @@ Second line
      last line
 EOF
 ```
+
+> 关于更多输入重定向与输出重定向的用法与范例, 可以参考[Bash官方文档](https://www.gnu.org/software/bash/manual/bashref.html#Redirections) 或 [linux-wiki](http://linux-wiki.cn/wiki/zh-hans/Bash%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E9%87%8D%E5%AE%9A%E5%90%91)

@@ -31,6 +31,6 @@
     * [总结](files_directorys/summary.md)
 * [重定向与管道](redirection_and_pipe/README.md)
     * [重定向](redirection_and_pipe/redirections/README.md)
-        * [输入重定向](redirection_and_pipe/redirections/input.md)
         * [输出重定向](redirection_and_pipe/redirections/output.md)
+        * [输入重定向](redirection_and_pipe/redirections/input.md)
         * [结合使用](redirection_and_pipe/redirections/combine.md)
