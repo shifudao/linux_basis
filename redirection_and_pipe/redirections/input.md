@@ -4,6 +4,7 @@
 
 * ``<``: 代表从其他某一文件接收输入，而不是默认的``/dev/stdin``
 * ``<<``: *here-document* 形式重定向, 代表将一段标记为 *here-document* 的文本作为输入
+* ``n<&-``: Close input file descriptor ``n``.
 
 几个典型的 ``<`` 输入重定向演示:
 
