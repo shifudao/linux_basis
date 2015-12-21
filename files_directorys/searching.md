@@ -34,3 +34,13 @@ SYNOPSIS
 * ``-exec``: 对找出的文件执行外部命令操作
 
 examples: http://www.tecmint.com/35-practical-examples-of-linux-find-command/
+
+几个find的小范例:
+
+```
+find /path/to/dir -samefile /path/to/file      # 找出硬链接
+find -type f -perm 0777 -print                 # 找出777权限的文件
+find ! -name '*.sh' ! -type d                  # 反向匹配
+find -inum number                              # inum用于匹配inode，删除怪异文件名的利器
+find -size +5M                                 # 找出大于5M的文件
+```
