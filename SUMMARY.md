@@ -34,3 +34,4 @@
         * [输出重定向](redirection_and_pipe/redirections/output.md)
         * [输入重定向](redirection_and_pipe/redirections/input.md)
         * [结合使用](redirection_and_pipe/redirections/combine.md)
+* [正则表达式](regular_permissions/README.md)
