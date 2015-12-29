@@ -49,4 +49,11 @@ SYNOPSIS
 
 find和xargs常常以这样的方式结合使用:
 
-    find [表达式] -print0 | xargs -0 [COMMAND ]
+    find [表达式] -print0 | xargs -0 [COMMAND [ARGS]]
+
+``xargs``常用参数:
+
+* ``-0``: 与``find -print0``搭配使用绝佳,指定``\0``为参数分隔符
+* ``-L n``: 指定最大接受行数为``n``，超过``n``行的参数将被切割
+* ``-n n``: 指定每行参数的最大数量为``n``
+* ``-I replace-str``: 指定参数占位符为``replace-str``,如: ``xargs -I '{}' mv '{}' /tmp/``
