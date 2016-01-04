@@ -38,4 +38,5 @@
         * [匿名管道](redirection_and_pipe/pipe/pipe.md)
         * [命名管道](redirection_and_pipe/pipe/FIFO.md)
     * [总结](redirection_and_pipe/summary.md)
+* [用户与用户组管理](user_and_group_management/README.md)
 * [正则表达式](regular_expression/README.md)
