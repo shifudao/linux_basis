@@ -45,4 +45,7 @@
     * [用户组相关配置文件](user_and_group_management/group_related_files/README.md)
         * [/etc/group](user_and_group_management/group_related_files/etc_group.md)
         * [/etc/gshadow](user_and_group_management/group_related_files/etc_gshadow.md)
+    * [用户与组的创建](user_and_group_management/user_and_group_create.md)
+    * [用户与组的删除](user_and_group_management/user_and_group_delete.md)
+    * [用户与组的属性修改](user_and_group_management/user_and_group_modify.md)
 * [正则表达式](regular_expression/README.md)
