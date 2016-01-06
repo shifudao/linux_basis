@@ -48,4 +48,7 @@
     * [用户与组的创建](user_and_group_management/user_and_group_create.md)
     * [用户与组的删除](user_and_group_management/user_and_group_delete.md)
     * [用户与组的属性修改](user_and_group_management/user_and_group_modify.md)
+    * [查询用户和组信息](user_and_group_management/user_group_info.md)
+    * [chroot监狱](user_and_group_management/chroot.md)
+    * [总结](user_and_group_management/summary.md)
 * [正则表达式](regular_expression/README.md)

@@ -29,3 +29,10 @@ gpasswd -a myuser mygrp
 usermod -U myuser
 passwd -u myuser
 ```
+
+基本上面提到的4个命令足以搞定所有用户与组的属性及密码相关设置，仍然有一些有趣的小工具，仅对某个文件的某个字段进行修改。
+
+常见的如下:
+
+* ``chsh``: change shell，改变用户的shell(需要注销重新登录生效)
+* ``chage``: change age，修改密码有效期限。``chage -l username``可以显示用户解析过的用户密码期限信息。
