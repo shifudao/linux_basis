@@ -52,4 +52,5 @@
     * [su与sudo](user_and_group_management/su_and_sudo.md)
     * [chroot监狱](user_and_group_management/chroot.md)
     * [总结](user_and_group_management/summary.md)
+* [进程与任务管理](process_and_job/README.md)
 * [正则表达式](regular_expression/README.md)
