@@ -6,4 +6,6 @@ Linux基础的资料大纲
 
 源码托管在github: https://github.com/shifudao/linux_basis
 
+Gitbook在线阅读: https://www.gitbook.com/book/abcfy2/linux_basic/details
+
 本地直接预览可选用[gitbook-cli](https://github.com/GitbookIO/gitbook)直接生成html。
