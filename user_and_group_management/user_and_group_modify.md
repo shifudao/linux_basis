@@ -19,7 +19,7 @@
 可以注意到这些命令有些功能交集，比如将一个普通用户``myuser``添加到一个附加组``mygrp``中，以下两个命令都可以实现:
 
 ```
-useradd -a -G mygrp myuser
+usermod -a -G mygrp myuser
 gpasswd -a myuser mygrp
 ```
 
