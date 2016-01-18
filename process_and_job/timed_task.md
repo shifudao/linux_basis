@@ -80,3 +80,5 @@ job 5 at Wed Jan 13 11:58:00 2016  # 这里列出job的ID以及执行的时间
 * ``0 * * * *``: 每小时
 * ``*/2 * * * *``: 每2分钟
 * ``1-59/2 * * *``: 分钟为奇数
+
+> **TIPS**: 一个很不错的在线crontab验证: http://www.atool.org/crontab.php
