@@ -44,6 +44,6 @@
 负向零宽断言的详解和范例参考:
  [正则表达式30分钟入门教程#负向零宽断言](http://deerchao.net/tutorials/regex/regex.htm#negativelookaround)
 
-> **TIPS**: grep中使用零宽断言时，表达式必须使用fix pattern。如``(?=.*abc)``会报错
+> **TIPS**: grep中使用零宽断言时，表达式必须使用fixed length。如``(?=.*abc)``会报错,``(?=abc\w{3})``则不会
 
 > 给长整数用逗号分隔(每3位)的正则范例: http://stackoverflow.com/questions/721304/insert-commas-into-number-string
